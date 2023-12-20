@@ -1,9 +1,9 @@
-# Hi there, I'm Damaris! 👋
+# Hi there, I'm Damaris! 👩🏼‍💻
 
 I'm a passionate and adaptable Software Engineer based in San Diego, CA. Welcome to my GitHub profile, where I share my projects and experiences in software development.
 
 ## Technical Skills
-### 👩🏼‍💻 Front-End
+### ⌨️ Front-End
 - JavaScript, React, ReactJs, React Native, HTML5, CSS3, Vue.js, Bootstrap, TailwindCSS, Redux
 
 ### ⚙️ Backend

@@ -21,6 +21,6 @@ I'm a passionate and adaptable Software Engineer based in San Diego, CA. Welcome
 ## 📫 Let's Connect
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/damarisdelapaz) or check out my projects here on [GitHub](www.github.com/damarisdlp). I'm passionate about technology and always open to collaborations and discussions.
 
-[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/damarisdelapaz)
+[<img align="left" alt="LinkedIn" width="30px" src="./img/linkedin-svgrepo-com.svg" style="padding-right:15px;" />](https://www.linkedin.com/in/damarisdelapaz)
 &nbsp;&nbsp;
-[![website](./img/github-142-svgrepo-com.svg)](https://www.github.com/damarisdlp)
+[<img align="left" alt="GitHub" width="30px" src="./img/github-142-svgrepo-com.svg" style="padding-right:15px;" />](https://www.github.com/damarisdlp)

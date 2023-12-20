@@ -4,7 +4,7 @@ I'm a passionate and adaptable Software Engineer based in San Diego, CA. Welcome
 
 ## Technical Skills
 ### ⌨️ Front-End
-- JavaScript, React, ReactJs, React Native, HTML5, CSS3, Vue.js, Bootstrap, TailwindCSS, Redux
+- JavaScript, React, HTML5, CSS3, Vue.js, Bootstrap, TailwindCSS, Redux
 
 ### ⚙️ Backend
 - Java, C++, Node.js, Express.js, PostgreSQL, MySQL, RESTful API Development

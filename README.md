@@ -1,3 +1,5 @@
+<img src="https://github.com/damarisdlp/damarisdlp/blob/main/img/helloworld.gif" alt="Here is a little bit about me!" style="width: 80%;">
+
 # Hi there, I'm Damaris! 👩🏼‍💻
 
 I'm a passionate and adaptable Software Engineer based in San Diego, CA. Welcome to my GitHub profile, where I share my projects and experiences in software development.

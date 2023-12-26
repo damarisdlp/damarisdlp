@@ -1,4 +1,4 @@
-<img src="https://github.com/damarisdlp/damarisdlp/blob/main/img/hello.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/damarisdlp/damarisdlp/blob/main/img/helloworld.gif" alt="Here is a little bit about me!">
 
 ## Hi there, I'm Damaris! 👩🏼‍💻
 

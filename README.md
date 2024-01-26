@@ -1,8 +1,9 @@
 <img src="https://github.com/damarisdlp/damarisdlp/blob/main/img/helloworld.gif" alt="Here is a little bit about me!">
 
 ## Hi there, I'm Damaris! 👩🏼‍💻
+#### Backend Software Developer
 
-I'm a passionate and adaptable Software Engineer based in San Diego, CA. Welcome to my GitHub profile, where I share my projects and experiences in software development.
+Welcome to my GitHub profile! I'm an enthusiastic and versatile Software Engineer driven by a deep passion for creating innovative tools that make a positive impact on people's lives. My goal is to harness the power of technology to provide solutions that aid and empower individuals in various aspects of their daily lives.
 
 ## Technical Skills
 
